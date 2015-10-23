@@ -1,0 +1,6 @@
+*.txt
+*.o
+*~
+setitimer-helper
+squish-pty
+squish-unix
